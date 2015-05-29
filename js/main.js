@@ -120,7 +120,7 @@
 	    height: 92,
 	    image: ryuImage,
 	    numberOfFrames: 17,
-	    ticksPerFrame: 6	
+	    ticksPerFrame: 4	
 	});
 
 
