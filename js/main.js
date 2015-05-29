@@ -116,15 +116,12 @@
 	//create sprite
 	ryu = sprite({
 	    context: canvas.getContext('2d'),
-	    width: 2000,
+	    width: 2030,
 	    height: 92,
 	    image: ryuImage,
-	    numberOfFrames: 17,
+	    numberOfFrames: 14,
 	    ticksPerFrame: 4	
 	});
-
-
-	
 
 	ryuImage.addEventListener('load', looper);
 
