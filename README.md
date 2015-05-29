@@ -1,2 +1,2 @@
-# canvas-animation
-Canvas sprite animation..
+# RYU canvas-animation
+JS ryu canvas animation.
