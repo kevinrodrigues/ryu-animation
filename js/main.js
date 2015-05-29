@@ -116,7 +116,7 @@
 	//create sprite
 	ryu = sprite({
 	    context: canvas.getContext('2d'),
-	    width: 2465,
+	    width: 1000,
 	    height: 92,
 	    image: ryuImage,
 	    numberOfFrames: 17,
